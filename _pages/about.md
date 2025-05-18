@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "# Ben Wang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+**Expert, ADAS Software Architect and Release Manager@NIO GmbH**
 
 Hi, I am Ben Wang, I work in NIO Berlin as Expert, ADAS Software Architect and Release Manager, responsible for the EU and MENA ADAS feature definition and software release. Before I joined NIO, I was software manager at Porsche Engineering.
 
