@@ -36,12 +36,12 @@ Jun 2024 - Now
 **NIO Inc. Shanghai | Expert, ADAS Software Architect and Senior Manager**  
 Jun 2021 - Jun 2024
 - Head of autonomous driving software toolchain team. 
-- Software Architect Design for Autonomous Driving.
+- Software architect design for autonomous driving.
 
 **Porsche Engineering  | Software Development Manager**  
 Jan 2018 to Jun 2021
 - Head of automotive software development department. 
-- Responsible for development of Chassis Control and ADAS software. 
+- Responsible for development of Active chassis control and ADAS software. 
 
 **Bosch Automotive  | Staff Software Engineer**  
 July 2013 to Jan 2018
@@ -49,7 +49,7 @@ July 2013 to Jan 2018
 
 **Bosch Powertools  | Staff Software Engineer**  
 July 2011 to Jan 2013
-- Internet of Things Technology Development.
+- Internet of Things technology development.
 
 
 ---
