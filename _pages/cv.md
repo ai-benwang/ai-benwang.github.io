@@ -31,7 +31,7 @@ B.S. in Mechanical Engineering  2002 - 2006
 **NIO GmbH Berlin | Expert, ADAS Software Architect and Release Manager**  
 Jun 2024 - Now
 - Responsible for EU and MENA ADAS feature definition including driving and parking.
-- ASAD doman Software release management and sign off. 
+- ASAD domain software release management and sign off. 
 
 **NIO Inc. Shanghai | Expert, ADAS Software Architect and Senior Manager**  
 Jun 2021 - Jun 2024
@@ -51,9 +51,6 @@ July 2013 to Jan 2018
 July 2011 to Jan 2013
 - Internet of Things Technology Development.
 
-**Bosch Powertools  | Staff Software Engineer**  
-July 2009 to July 201
-- Information system and electric traction system development and project management.
 
 ---
 
