@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Expert, ADAS Software Architect and Release Manager@NIO GmbH**
+**Expert, ADAS Software Architect and Release Manager @ <span style="color:blue"> NIO GmbH </span>**
 
 Hi, I am Ben Wang, I work in NIO Berlin as Expert, ADAS Software Architect and Release Manager, responsible for the EU and MENA ADAS feature definition and software release. Before I joined NIO, I was software manager at Porsche Engineering.
 
