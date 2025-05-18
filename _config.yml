@@ -25,7 +25,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ben Wang"
+  # name             : "Ben Wang"
   pronouns         : # example: "she/her"  
   bio              : "Experienced automotive and ADAS professional with 10+ years in system engineering and leadership, focused on autonomous driving technologies. Strong in bridging large-scale system processes with startup-level agility. Multilingual (Mandarin, English, basic German) and effective in international, cross-functional teams. Detail-oriented, reliable, and committed to delivering high-quality, innovative solutions."
   location         : "Berlin, Germany"
