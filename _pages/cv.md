@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "简历 / CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,53 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Ben Wang** · 自动驾驶 / ADAS 系统专家 · 柏林，德国
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+10+ 年汽车行业经验，覆盖全生命周期开发与量产发布；曾服务于 NIO、Porsche、Bosch 等头部企业，擅长 V 模型开发、数据驱动 V&V 与 ADAS 系统架构设计，具备跨职能团队领导经验。
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+教育背景
+======
+* 硕士，控制科学与工程，清华大学，北京，2006–2009
+* 硕士，电气工程，香港理工大学，香港，2009–2011
+* 学士，机械工程，南京理工大学，南京，2002–2006
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+证书
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PMP（项目管理专业人士），PMI 认证，2017
 
-Publications
+工作经历
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **2021 至今 · NIO 自动驾驶** — 专家 / Function Owner & ADAS 软件发布经理
+  * 负责量产级 ADAS 系统（行车、泊车、主动安全）的功能设计与方案开发
+  * 主导系统设计从规则驱动向端到端数据驱动转型，建立闭环数据驱动开发流程
+  * 全面负责欧洲市场 ADAS 软件发布，制定技术迭代路线图
+  * 负责面向 NVIDIA Orin / 自研 SoC 的量产平台软件架构设计
+
+* **2018–2021 · Porsche Engineering Group** — 软件开发经理
+  * 管理约 10 人软件开发团队，参与保时捷集团 ADAS 项目
+  * 负责高速 L3 驾驶路径仲裁模块的设计与验证
+  * 管理德国、罗马尼亚、中国跨国团队，按时交付多个客户软件项目
+
+* **2013–2018 · Bosch 汽车电子** — 软件组长
+  * 负责轻型电动车平台仪表软件团队，定义整体软件系统架构
+  * 参与物联网与传感器创新产品研发
+
+* **2011–2013 · Bosch 电动工具** — 高级预研工程师
+  * 主导蓝牙、NFC 等物联网技术的预研与应用
+
+* **2009–2011 · 港铁（MTR）轨道交通** — 项目工程师（同期攻读港理工硕士）
+  * 参与轨道交通车辆电驱动项目的技术管理与功能安全分析
+
+核心技能
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* ADAS / 自动驾驶系统架构设计（行车、泊车、主动安全）
+* 域控制器软件平台架构（NVIDIA Orin / 自研 SoC）
+* 数据驱动与端到端系统开发
+* 系统验证与确认（SIL / HIL / VIL）
+* 功能安全与法规符合性（UNECE R79）
+* 跨职能、跨国团队技术领导与项目管理
+
+联系方式
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 邮箱：[coconutbende@gmail.com](mailto:coconutbende@gmail.com)
+* GitHub：[@ai-benwang](https://github.com/ai-benwang)
