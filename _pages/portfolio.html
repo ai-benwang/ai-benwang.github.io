@@ -1,14 +1,19 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
-author_profile: true
+title: "Projects"
+permalink: /projects/
+author_profile: false
+classes: wide
+redirect_from:
+  - /portfolio/
 ---
 
-{% include base_path %}
+<div class="page-lead">Small, useful, and occasionally curious things I build.</div>
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+{% if site.portfolio.size > 0 %}
+  {% for post in site.portfolio %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+  <p class="page-muted empty-state">Projects will appear here as I publish them. Each entry can link to a project page, its GitHub repository, and a live demo.</p>
+{% endif %}
