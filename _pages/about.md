@@ -1,19 +1,20 @@
 ---
 permalink: /
-title: "# Ben Wang"
-author_profile: true
-redirect_from: 
+title: ""
+author_profile: false
+classes: wide
+redirect_from:
   - /about/
   - /about.html
 ---
-**Expert, ADAS Software Architect and Release Manager @ NIO GmbH **
 
-Hi, I am Ben Wang, I work in NIO Berlin as Expert, ADAS Software Architect and Release Manager, responsible for the EU and MENA ADAS feature definition and software release. Before I joined NIO, I was software manager at  Porsche Engineering.
-
-I received my master degree in control science at Tsinghua University in year 2009. Besides, I also have a master degree in Electronic Engineering from Hong Kong Polytechnical University in year 2011 and bachalor degree in Mechanical Engineering from Nanjing University of Science of Technology in year 2006.
-
-I am a software engineering leader with over 10 years of experience, including 5+ years managing embedded software and hardware integration teams. Skilled in Linux, QNX, and Adaptive AUTOSAR environments, with strong proficiency in C++ and Python.
-
-I have successfully delivered AI integration on automotive platforms such as NVIDIA Orin and NX9031. Experienced in virtualization, bootloaders, and functional safety standards like ISO 26262.
-
-I excel at defining technical roadmaps, leading cross-functional collaboration, and driving modern practices like CI/CD and OTA updates. With a background in computer science and electrical engineering, I lead teams to build scalable, high-quality software that meets automotive safety and performance goals.
+<div class="home-hero">
+  <p class="home-kicker">ADAS / AUTONOMOUS DRIVING</p>
+  <h1>Hello, I'm<br>Ben Wang.</h1>
+  <p class="home-intro">I design and deliver production-ready intelligent driving systems—turning complex architectures, cross-functional collaboration, and real-world validation into reliable products.</p>
+  <div class="home-meta">
+    <span>10+ years in the automotive industry</span>
+    <span>NIO · Porsche · Bosch</span>
+    <a href="mailto:coconutbende@gmail.com">Get in touch</a>
+  </div>
+</div>
