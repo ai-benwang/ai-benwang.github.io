@@ -9,15 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ben Wang"
+title                    : "Ben Wang | ADAS & Autonomous Driving"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-# url                      : https://academicpages.github.io/ 
-url                      : https://ai-benwang.github.io/ 
-# the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Ben Wang"
+description              : &description "ADAS and autonomous-driving systems specialist. Personal projects and writing."
+url                      : https://ai-benwang.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-# repository               : "https://ai-benwang.github.io/"
+repository               : "ai-benwang/ai-benwang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,25 +23,24 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "profile.png"
-  # name             : "Ben Wang"
-  pronouns         : # example: "she/her"  
-  bio              : "Experienced automotive and ADAS professional with 10+ years in system engineering and leadership, focused on autonomous driving technologies. Strong in bridging large-scale system processes with startup-level agility. Multilingual (Mandarin, English, basic German) and effective in international, cross-functional teams. Detail-oriented, reliable, and committed to delivering high-quality, innovative solutions."
-  location         : "Berlin, Germany"
-  # employer         : "Red Brick University"
+  name             : "Ben Wang"
+  pronouns         : # example: "she/her"
+  bio              : "ADAS & autonomous-driving systems"
+  location         :
+  employer         : # 留空：不在侧边栏公开当前雇主
   uri              : # URL
-  email            : "benwang42tech@gmail.com" 
-  linkedin         : "https://www.linkedin.com/in/wang-ben-35727677/" 
+  email            : "coconutbende@gmail.com"
 
   # Academic websites
-  # academia         : # URL
-  # arxiv            : # URL - Update with the correct link to your profile
-  # # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  # impactstory      : # URL
-  # # orcid            : "http://orcid.org/yourorcidurl"
-  # semantic         : # URL
-  # # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # # researchgate     : # URL
-  # # scopus           : # URL
+  academia         : # URL
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : # URL
+  impactstory      : # URL
+  orcid            : # URL
+  semantic         : # URL
+  pubmed           : # URL
+  researchgate     : # URL
+  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -54,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  # bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -214,7 +211,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# remove this 
+
 # These settings control the types of collections used by the template
 collections:
   teaching:
