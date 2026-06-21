@@ -1,19 +1,20 @@
 ---
 layout: archive
-permalink: /year-archive/
-title: "Blog posts"
-author_profile: true
+permalink: /blog/
+title: "Blog"
+author_profile: false
+classes: wide
 redirect_from:
+  - /year-archive/
   - /wordpress/blog-posts/
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="page-lead">Notes on intelligent driving, software systems, and things I am exploring.</div>
+
+{% if site.posts.size > 0 %}
+  {% for post in site.posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+  <p class="page-muted empty-state">No posts yet.</p>
+{% endif %}
