@@ -44,11 +44,11 @@
 
 /* Minimal personal-site layer */
 :root {
-  --ben-ink: #161616;
-  --ben-muted: #686868;
-  --ben-line: #deded8;
-  --ben-paper: #f7f7f3;
-  --ben-accent: #1d4ed8;
+  --ben-ink: var(--global-text-color);
+  --ben-muted: var(--global-text-color-light);
+  --ben-line: var(--global-border-color);
+  --ben-paper: var(--global-bg-color);
+  --ben-accent: var(--global-link-color);
 }
 
 html { scroll-behavior: smooth; }
