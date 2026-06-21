@@ -67,8 +67,8 @@ body { background: var(--ben-paper); color: var(--ben-ink); }
 
 .home-hero { padding: 5rem 0 7rem; }
 .home-kicker { margin: 0 0 2rem; color: var(--ben-accent); font-size: .78rem; font-weight: 700; letter-spacing: .1em; }
-.home-hero h1 { max-width: 1000px; margin: 0; font-size: clamp(3.25rem, 7vw, 6rem); line-height: 1.02; letter-spacing: -.055em; }
-.home-intro { max-width: 780px; margin: 2.5rem 0 0; font-size: clamp(1.35rem, 2.5vw, 2rem); line-height: 1.42; letter-spacing: -.025em; }
+.home-hero h1 { display: block; max-width: 900px; margin: 0; font-size: clamp(2.75rem, 5vw, 4.5rem); line-height: 1.08; letter-spacing: -.045em; }
+.home-intro { position: relative; clear: both; max-width: 780px; margin: 3rem 0 0; font-size: clamp(1.35rem, 2.5vw, 2rem); line-height: 1.42; letter-spacing: -.025em; }
 .home-meta { display: flex; flex-wrap: wrap; gap: .75rem 2rem; margin-top: 2.5rem; color: var(--ben-muted); }
 .home-meta a { color: var(--ben-ink); text-underline-offset: .25rem; }
 .page-lead { max-width: 760px; margin-bottom: 3rem; font-size: clamp(1.35rem, 2.5vw, 2rem); line-height: 1.4; letter-spacing: -.025em; }
@@ -80,5 +80,5 @@ body { background: var(--ben-paper); color: var(--ben-ink); }
 @media (max-width: 640px) {
   .masthead__inner-wrap, .page__inner-wrap { padding-left: 1rem; padding-right: 1rem; }
   .home-hero { padding-top: 3.5rem; }
-  .home-hero h1 { font-size: clamp(3rem, 15vw, 4.5rem); }
+  .home-hero h1 { font-size: clamp(2.75rem, 13vw, 3.75rem); }
 }
