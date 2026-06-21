@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ben Wang | 自动驾驶 & ADAS"
+title                    : "Ben Wang | ADAS & Autonomous Driving"
 title_separator          : "-"
 name                     : &name "Ben Wang"
-description              : &description "自动驾驶 / ADAS 系统专家，10+ 年汽车行业经验。个人主页与技术博客。"
+description              : &description "ADAS and autonomous-driving systems specialist. Personal projects and writing."
 url                      : https://ai-benwang.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ai-benwang/ai-benwang.github.io"
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Ben Wang"
   pronouns         : # example: "she/her"
-  bio              : "自动驾驶 / ADAS 系统专家 · 10+ 年汽车行业经验"
-  location         : "Berlin, Germany"
+  bio              : "ADAS & autonomous-driving systems"
+  location         :
   employer         : # 留空：不在侧边栏公开当前雇主
   uri              : # URL
   email            : "coconutbende@gmail.com"
