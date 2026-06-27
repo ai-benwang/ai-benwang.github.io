@@ -60,7 +60,7 @@ body { background: var(--ben-paper); color: var(--ben-ink); }
 .greedy-nav .visible-links a::before { height: 1px; background: var(--ben-ink); }
 .page { float: none; width: 100%; padding-right: 0; }
 .page__inner-wrap { max-width: 1120px; margin: 0 auto; }
-.page__title { font-size: clamp(3.4rem, 9vw, 7rem); line-height: .98; letter-spacing: -.06em; margin: 4rem 0 3rem; }
+.page__title { font-size: clamp(2.25rem, 5vw, 4rem); line-height: 1.08; letter-spacing: -.03em; margin: 3rem 0 2rem; }
 .page__content { font-size: 1rem; }
 .page__footer { border-top: 1px solid var(--ben-line); background: transparent; color: var(--ben-muted); }
 .sidebar { display: none; }

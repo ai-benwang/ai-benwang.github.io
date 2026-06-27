@@ -4,7 +4,7 @@ date: 2026-06-27
 permalink: /posts/2026/06/act-action-chunking-cn/
 excerpt: "用直观的方式解释 ACT 如何通过动作分块和时间集成降低机器人模仿学习中的误差累积。"
 lang: zh
-canonical_post: true
+canonical_post: false
 related: false
 categories:
   - Robotics

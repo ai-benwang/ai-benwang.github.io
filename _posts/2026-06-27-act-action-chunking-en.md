@@ -4,7 +4,7 @@ date: 2026-06-27
 permalink: /posts/2026/06/act-action-chunking-en/
 excerpt: "An intuitive explanation of how ACT uses action chunks and temporal ensembling to reduce compounding error in robot imitation learning."
 lang: en
-canonical_post: false
+canonical_post: true
 related: false
 categories:
   - Robotics
