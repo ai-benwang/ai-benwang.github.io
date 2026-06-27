@@ -13,7 +13,9 @@ redirect_from:
 
 {% if site.posts.size > 0 %}
   {% for post in site.posts %}
-    {% include archive-single.html %}
+    {% if post.canonical_post != false %}
+      {% include archive-single.html %}
+    {% endif %}
   {% endfor %}
 {% else %}
   <p class="page-muted empty-state">No posts yet.</p>
