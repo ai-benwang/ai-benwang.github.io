@@ -76,6 +76,8 @@ body { background: var(--ben-paper); color: var(--ben-ink); }
 .empty-state { padding-top: 2rem; border-top: 1px solid var(--ben-line); }
 .archive__item { padding: 1.5rem 0; border-top: 1px solid var(--ben-line); }
 .archive__item-title a { color: var(--ben-ink); text-decoration: none; }
+.language-switch { margin: 0 0 2rem; padding: .75rem 0; border-top: 1px solid var(--ben-line); border-bottom: 1px solid var(--ben-line); color: var(--ben-muted); }
+.language-switch a { color: var(--ben-ink); text-underline-offset: .2rem; }
 
 @media (max-width: 640px) {
   .masthead__inner-wrap, .page__inner-wrap { padding-left: 1rem; padding-right: 1rem; }
